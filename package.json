@@ -1,6 +1,6 @@
 {
-  "homepage":"https://Hariharanerrors.github.io/my-chatting-design",
-  "name": "my-chatting-gpt",
+  "homepage":"https://Hariharanerrors.github.io/chatbot",
+  "name": "chatbot",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
